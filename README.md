@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason-Gitau
 - 👀 I’m interested in machine learning .
-- 🌱 I’m currently learning in Kagumo High School
+- 🌱 I’m currently learning in Kagumo High School,Kenya
 - 💞️ I’m looking to collaborate on projects that involve machine learning and artifial intelligence
 - 📫 How to reach me:jasongitau06@gmail.com
 
