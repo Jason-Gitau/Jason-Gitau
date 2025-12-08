@@ -1,6 +1,6 @@
 # Hi there, I'm Jason Gitau! 👋
 
-I am a **Mathematics and Computer Science** student at **JKUAT**, passionate about building scalable web applications and exploring the intersection of Math and AI.
+I am a **Mathematics and Computer Science** student at **JKUAT**, passionate about building scalable web and mobile applications and exploring the intersection of Math and AI.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, JavaScript/TypeScript, Dart
