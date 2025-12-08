@@ -1,12 +1,27 @@
-# 💫 About Me:
-🚀 19-year-old developer from Kenya, recently finished high school with an A- in KCSE 2024.<br><br>🎓 Currently studying AI, ML, and Software Engineering through Modcom Institute and a personal 5-month roadmap — focusing on NLP, computer vision, deployment (Flask, Docker), and tools like TensorFlow, PyTorch, and GitHub Actions.<br><br>🤖 Building a Telegram-based escrow system integrated with MPesa STK Push — plus side projects like sentiment analysis APIs, image classifiers, and chatbot automation tools.<br><br>🤝 Open to collaborating on MVPs, AI bots, payment automation, and real-world startup tools.<br><br>📬 Let’s connect if you're building something real, want help with automation or MPesa, or want to grow together! <br> my website: https://jason-gitau.github.io/portfolio/index.html
+# Hi there, I'm Jason Gitau! 👋
+
+I am a **Mathematics and Computer Science** student at **JKUAT**, passionate about building scalable web applications and exploring the intersection of Math and AI.
+
+### 🛠️ Tech Stack
+* **Languages:** Python, JavaScript/TypeScript, Dart
+* **Frameworks:** Next.js, Flutter
+* **AI & ML:** Neural Networks (Keras/TensorFlow), RAG Systems
+* **Backend & Tools:** Supabase, Cloudflare R2, Git
+
+### 🔭 Current Focus
+* **FinTech:** Building robust payment solutions using **M-Pesa API** integrations.
+* **EdTech:** Developing **Uni Repo**, a platform to help university students organize and share class resources.
+
+### 🚀 Featured Projects
+* **Uni Repo:** A notes sharing platform using Next.js, Supabase, and Cloudflare R2.
+* **M-Pesa Integration:** A demonstration of Daraja API implementation for payments.
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/jason-gitau20/)
+* [Portfolio](https://jason-gitau.netlify.app/)
 
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-gitau20)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@GitauJason) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jason_gitau) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jason-Gitau&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jason-Gitau&theme=gruvbox&hide_border=false)<br/>
