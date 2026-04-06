@@ -3,7 +3,7 @@
 I am a **Mathematics and Computer Science** student at **JKUAT**, passionate about building scalable web and mobile applications and exploring the intersection of Math and AI.
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, JavaScript/TypeScript, Dart
+* **Languages:** Python, JavaScript/TypeScript, Jave
 * **Frameworks:** Next.js, Flutter
 * **AI & ML:** Neural Networks (Keras/TensorFlow), RAG Systems
 * **Backend & Tools:** Supabase, Cloudflare R2, Git
