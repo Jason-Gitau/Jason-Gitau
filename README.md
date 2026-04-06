@@ -4,8 +4,7 @@ I am a **Mathematics and Computer Science** student at **JKUAT**, passionate abo
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, TypeScript, Java
-* **Frameworks:** Next.js, Flutter
-* **AI & ML:** Neural Networks (Keras/TensorFlow), RAG Systems
+* **Frameworks:** Next.js, nest.js
 * **Backend & Tools:** Supabase, Cloudflare R2, Git
 
 ### 🔭 Current Focus
