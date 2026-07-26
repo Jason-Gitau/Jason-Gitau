@@ -4,12 +4,12 @@ I am a **Mathematics and Computer Science** student at **JKUAT**, passionate abo
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, TypeScript, Java
-* **Frameworks:** Next.js, nest.js,hono
-* **Backend & Tools:** Supabase, Cloudflare R2, Git
+* **Frameworks:** Next.js, nest.js, hono
+* **Backend & Tools:** postgresDB , sqlite , Cloudflare , Git
 
 ### 🔭 Current Focus
-* **FinTech:** Building robust payment solutions using **M-Pesa API** integrations.
 * **EdTech:** Developing **jkuathub**, a platform to help university students organize and share class resources.
+* **FinTech:** Building robust payment solutions using **M-Pesa API** integrations.
 
 ### 🚀 Featured Projects
 * **jkuathub:** A notes sharing platform using Next.js, Supabase, and Cloudflare R2.
